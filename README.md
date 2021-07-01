@@ -19,8 +19,14 @@ Pidgin acts as an instant chat messenger with universal chat client supporting f
 b. Ejabbered (chat server)
 Ejabberd is an open source software that is is used for providing XMPP server service for instant messaging.
 
-SYSTEM DESIGN ARCHITECTURE-
+SYSTEM DESIGN ARCHITECTURE
+
+
 ![Architecture](https://user-images.githubusercontent.com/22990797/124069867-c75c6900-d9f1-11eb-8663-867df7c42853.png)
+
+
 ![Server snip](https://user-images.githubusercontent.com/22990797/124070172-418ced80-d9f2-11eb-977e-ad5774d82e85.PNG)
+
+
 ![Client snip](https://user-images.githubusercontent.com/22990797/124070202-4c478280-d9f2-11eb-896c-0a52d16f56b5.PNG)
 
