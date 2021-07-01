@@ -12,6 +12,7 @@ Software provides relation between human and computer. Various software and tech
 2. Programming language - Python (Any language of choice can be used)
 3. Understanding of the following protocols - 
 a. XMPP (Extensible Messaging and Presence Protocol) - A open source protocol for instant messaging, video call, etc. that operates on XMPP client and XMPP server.
+The XMPP protocol is used to  design and interconnect various applications and services.
 b. TCP (Transmission Control Protocol) - An acknowledgement-based connection-oriented protocol used for reliable packet transmission on a network.
 4. Applications to be installed -
 a. Pidgin (chat client)
