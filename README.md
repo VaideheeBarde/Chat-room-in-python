@@ -37,11 +37,3 @@ SYSTEM DESIGN ARCHITECTURE
 
 ![Client snip (2)](https://user-images.githubusercontent.com/22990797/124071776-bb25db00-d9f4-11eb-9a6a-074f4536c7ed.PNG)
 
-
-TESTING AND EXPERIMENT SCOPE
-
-Chat server does two major functions.  
-1) Multiple socket connections are instantiated between the socket and the client.
-2) Message exchange takes place between the client and the server after the establishment of the socket connection.
-3) Broadcast message is sent to all the clients from the server, except the client that is sending the message.
-
