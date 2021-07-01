@@ -21,10 +21,13 @@ Ejabberd is an open source software that is is used for providing XMPP server se
 
 SYSTEM DESIGN ARCHITECTURE
 
+
 ![Architecture (2)](https://user-images.githubusercontent.com/22990797/124071747-af3a1900-d9f4-11eb-9792-f51a298d0344.png)
 
 
+
 ![Server snip (2)](https://user-images.githubusercontent.com/22990797/124071769-b7925400-d9f4-11eb-95ab-4b806807d90e.PNG)
+
 
 
 ![Client snip (2)](https://user-images.githubusercontent.com/22990797/124071776-bb25db00-d9f4-11eb-9a6a-074f4536c7ed.PNG)
